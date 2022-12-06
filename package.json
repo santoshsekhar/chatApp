@@ -11,10 +11,10 @@
   "author": "santosh sekhar",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "socket.io": "^2.2.0",
     "nodemon": "^1.19.1",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
